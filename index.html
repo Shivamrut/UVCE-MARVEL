@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        h1{
+            font-size: 80px;
+            font-weight: 100;
+        }
+        .tableColor
+        {
+            align-content: center;
+            background-color: grey;
+        }
+        .full
+        {
+            padding-top: 20px;
+            padding-left: 20px;
+        }
+            
+
+    </style>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script>
+        function take_input() {
+            var name = document.getElementsByClassName("student").value;
+            alert("Name: " + name);
+            var marks = document.getElementsByClassName('studentMarks');
+            var k = 0;
+            for (var i = 0; i < marks.length; i++) {
+                var a = marks[i];
+                k +=  parseInt( a.value) ;
+            }
+            k = k/3;
+            alert("Marks: "+ k);
+        
+
+        }
+    </script>
+    <title>Task 1 - Javascript</title>
+</head>
+
+<body>
+    <div class="full">
+        <div class="intro" >
+            <h1 style="font-size: 80px; font-weight: 1000;">UVCE Marvel CL-CY</h1>
+            <hr>
+            <H2 style="font-weight: 800;">TASK 1 - Javascript</H2>
+            <hr>
+            <h2>This website takes names and marks of ten students and calculates the
+                <ul>
+                    <li>Percentage of each student
+                    </li>
+                    <li>Class average</li>
+                    <li>Rankings of the students</li>
+                </ul>
+
+            </h2>
+        </div>
+        <br><br>
+        <div>
+            <h2 style="font-style: italic; text-decoration: underline; text-align:center;" class="scroll-left">Please enter details of 10 students in the following table. <br>
+                Enter marks out of 100.</h2>
+                <br>
+            <table class="table table-bordered table-striped table-responsive tableColor">
+                <tr>
+                    <th>S.No.</th>
+                    <th>Name</th>
+                    <th>sub1</th>
+                    <th>sub2</th>
+                    <th>sub3</th>
+                    <th>Submit</th>
+
+                </tr>
+
+                <div>
+                    <tr>
+                        <td>1</td>
+                        <td><input type="text" class="student"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="submit" onclick="take_input()"></td>
+                    </tr>
+                </div>
+                <div>
+                    <tr>
+                        <td>2</td>
+                        <td><input type="text" class="student"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="submit" onclick="take_input()"></td>
+                    </tr>
+                </div>
+                <div>
+                    <tr>
+                        <td>3</td>
+                        <td><input type="text" class="student"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="submit" onclick="take_input()"></td>
+                    </tr>
+                </div>
+                <div>
+                    <tr>
+                        <td>4</td>
+                        <td><input type="text" class="student"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="submit" onclick="take_input()"></td>
+                    </tr>
+                </div>
+                <div>
+                    <tr>
+                        <td>5</td>
+                        <td><input type="text" class="student"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="submit" onclick="take_input()"></td>
+                    </tr>
+                </div>
+                <div>
+                    <tr>
+                        <td>6</td>
+                        <td><input type="text" class="student"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="submit" onclick="take_input()"></td>
+                    </tr>
+                </div>
+                <div>
+                    <tr>
+                        <td>7</td>
+                        <td><input type="text" class="student"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="submit" onclick="take_input()"></td>
+                    </tr>
+                </div>
+                <div>
+                    <tr>
+                        <td>8</td>
+                        <td><input type="text" class="student"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="submit" onclick="take_input()"></td>
+                    </tr>
+                </div>
+                <div>
+                    <tr>
+                        <td>9</td>
+                        <td><input type="text" class="student"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="submit" onclick="take_input()"></td>
+                    </tr>
+                </div>
+                <div>
+                    <tr>
+                        <td>10</td>
+                        <td><input type="text" class="student"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="text" class="studentMarks"></td>
+                        <td><input type="submit" onclick="take_input()"></td>
+                    </tr>
+                </div>
+
+
+
+            </table>
+
+        </div>
+        <br>
+        <div class="finalOutput">
+            <h1 style="font-size: 45px; font-weight: 700">
+                This is the expected result
+            </h1>
+            <h2>
+                Class average is :
+            </h2>
+            <h2>
+                Percentage and ranking of the students is:
+            </h2>
+        </div>
+    </div>
+
+</body>
+
+</html>
