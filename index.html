@@ -28,7 +28,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script>
         function take_input() {
-            var name = document.getElementsByClassName("student").value;
+            var name = document.getElementsByClassName("student");
             alert("Name: " + name);
             var marks = document.getElementsByClassName('studentMarks');
             var k = 0;
@@ -39,8 +39,11 @@
             k = k/3;
             alert("Marks: "+ k);
         
-
+            document.getElementById('average').innerHTML = 100;  
+            document.getElementById('result').innerHTML = 'result pending';      
         }
+        
+        
     </script>
     <title>Task 1 - Javascript</title>
 </head>
@@ -186,14 +189,15 @@
         </div>
         <br>
         <div class="finalOutput">
-            <h1 style="font-size: 45px; font-weight: 700">
+            <h1 style="font-size: 45px; font-weight: 700; text-decoration: underline">
                 This is the expected result
             </h1>
             <h2>
-                Class average is :
+                Class average is :<div id="average"></div>
             </h2>
             <h2>
                 Percentage and ranking of the students is:
+                <div id="result"></div>
             </h2>
         </div>
     </div>
