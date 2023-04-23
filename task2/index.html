@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="index.js"></script>
+    <style>
+        body
+        {
+            padding-left: 20px;
+            padding-top: 50px;
+        }
+        button {
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            text-align: center;
+          }
+          p
+          {
+            font-size: 20px;
+          }
+          
+    </style>
+    <title>Task 2 - Async JS</title>
+</head>
+<body>
+    <div id="intro">
+        <h1 style="font-size: 80px; font-weight: 1000;">UVCE Marvel CL-CY</h1>
+            <hr>
+            <H2 style="font-weight: 800;">TASK 2 - Async JS</H2>
+            <hr>
+            <h2>
+                This website displays the steps to cook Upma.
+            </h2>
+    </div>
+    
+    <div id="recipe" style="text-align: center;">
+        <br>
+        <img src="https://www.cubesnjuliennes.com/wp-content/uploads/2020/01/South-Indian-Rava-Upma-Recipe.jpg" alt="upma" width="300px">
+        <br><br>
+        <div id="display" style="text-align: center;">
+            <button type="button" style="color: black; " onclick="cook( () => {document.getElementById('s11').innerHTML+= '<b>Now enjoy your dish!!!</b>';})"><b> Show recipe </b></button>
+        </div>
+        <br>
+        <p id="s1"></p><br>
+        <p id="s2"></p><br>
+        <p id="s3"></p><br>
+        <p id="s4"></p><br>
+        <p id="s5"></p><br>
+        <p id="s6"></p><br>
+        <p id="s7"></p><br>
+        <p id="s8"></p><br>
+        <p id="s9"></p><br>
+        <p id="s10"></p><br>
+        <p id="s11"></p><br>
+        <p id="s12"></p><br>
+        
+    </div>
+</body>
+</html>
