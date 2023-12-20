@@ -1,2 +1,2 @@
-partial - 1, 7, 15
+partial - 1,  15
 to do - 8, 14,
