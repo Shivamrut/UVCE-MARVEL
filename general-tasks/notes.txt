@@ -1,2 +1,2 @@
-partial - 1,  15
-to do - 8, 14,
+partial - 1, 8, 15
+to do -  14,

@@ -1,10 +1,10 @@
-# Task 1 : 3D Printing 
+# Task 1: 3D Printing 
 
-## Overview
+### Overview
 
 Brief description of the 3D printing task and its goals.
 
-## Materials Needed
+### Materials Needed
 
 List of materials required for the task:
 
@@ -12,220 +12,249 @@ List of materials required for the task:
 - Filament 
 - 3D model files
 
-## Execution
+### Execution
 The first step involves preparing the 3D model, ensuring its compatibility with the chosen filament and printer specifications. Subsequently, slicing software such as Creality or Ultimaker is used to generate the STL file, with adjustments made to print settings for optimal results.
 
 After loading the filament into the 3D printer and performing necessary calibrations, the printing process begins. Throughout this phase, it's crucial to monitor the print and address any issues that may arise.
 
 Post-processing includes tasks such as removing supports and refining the printed object to achieve the desired quality. A final quality check ensures the success of the project.
-## Images
 
-![Image 1 ](url_to_image1)
+### Images
+
+![Image 1 ](https://i.postimg.cc/G3yzD1KX/img1.png)
 ![Image 2 ](url_to_image2)
 
-## [Github](http://www.example.com)
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task1)
 ---
 
-# Task 2 : API
-## What is an API?
+# Task 2: API
+### What is an API?
 An API (Application Programming Interface) is a set of rules that allows one software application to interact with another.
 
-## Images
+### Images
 
-![Image 1 ](url_to_image1)
-![Image 2 ](url_to_image2)
+![Image 1 ](https://i.postimg.cc/bYgr3Zmr/api2.png)
 
-## [Github](http://www.example.com)
+
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task2)
 ---
 
-# Task 3 : Working with Github
-## What are Issue and Pull request?
+# Task 3: Working with Github
+### What are Issue and Pull request?
 In GitHub, an issue is a tracked item used to discuss, organize, and prioritize work on software projects, while a pull request is a proposed change that is submitted for review and integration into the main codebase.
 
-## Images
+### Images
 
-![Image 1 ](url_to_image1)
-![Image 2 ](url_to_image2)
+![Image 1 ](https://i.postimg.cc/50DLkBZM/img1.png)
 
-## [Github](http://www.example.com)
+
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task3)
 ---
 # Task 4: Get familiar with the command line on ubuntu and do the following subtasks:
-● Create a folder named test.
+* Create a folder named test.
+* cd into that folder.
+* Create a blank file without using any text editor.
+* List the files in that folder.
+* Create 2600 folders in this folder where each folder is named like . For example, M90 or B56.
+* Concatenate two text files containing any random text and display them on the terminal.
 
-● cd into that folder.
+### Images
 
-● Create a blank file without using any text editor.
+![Image 1 ](https://i.postimg.cc/gp4nqmpX/img1.webp)
+![Image 2 ](https://i.postimg.cc/XNRVJ2CF/img2.webp)
 
-● list the files in that folder
-
-● Create 2600 folders in this folder where each folder is named like . For example, M90 or B56.
-
-● Concatenate two text files containing any random text and display them on the terminal.
-
-## Images
-
-![Image 1 ](url_to_image1)
-![Image 2 ](url_to_image2)
-
-## [Github](http://www.example.com)
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task4)
 ---
 # Task 5: Kaggle contest
-## What is ML?
+### What is ML?
 Machine learning is a subset of artificial intelligence that empowers computers to learn patterns from data and make predictions or decisions without explicit programming. It involves the development of algorithms that improve their performance over time as they are exposed to more data.
 
-## What is Kaggle?
+### What is Kaggle?
 
 Kaggle is a platform for data science and machine learning competitions, providing datasets, notebooks, and a collaborative environment for data enthusiasts and professionals to solve real-world problems and share insights.
 
-## What is the Titanic Compitition?
+### What is the Titanic Compitition?
 In this competition, participants are tasked with predicting the survival or death of passengers based on various features like age, sex, and ticket class.
 
-## Images
+### Images
 
-![Image 1 ](url_to_image1)
-![Image 2 ](url_to_image2)
+![Image 1 ](https://i.postimg.cc/k5gVcjwG/img2.png)
+![Image 2 ](https://i.postimg.cc/fbqVgxgK/img1.png)
 
-## [Github](http://www.example.com)
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task5)
 ---
 
 # Task 6: Working with Pandas and Matplotlib
-## What are Pandas and Matplotlib
+### What are Pandas and Matplotlib
 * Pandas is a data manipulation library for Python, and Matplotlib is a plotting library for creating static, interactive, and animated visualizations in Python.
 * Pandas helps organize, clean, and filter data, while Matplotlib facilitates the creation of various types of plots and charts to visualize that data. Together, they form a powerful combination for data analysis and visualization tasks.
 
-## Images
+### Images
 
-![Image 1 ](url_to_image1)
-![Image 2 ](url_to_image2)
+![Image 1 ](https://i.postimg.cc/yYWvQHY4/img1.png)
+![Image 2 ](https://i.postimg.cc/tCfD8MY1/img2.png)
+![Image 3 ](https://i.postimg.cc/05VV0Qv0/img3.png)
 
-## [Github](http://www.example.com)
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task6)
 ---
 # Task 7: Create a Portfolio Webpage
-## What is a Portfolio Webpage?
+### What is a Portfolio Webpage?
 A portfolio webpage is an online showcase that presents an individual's or a professional's work, projects, skills, and achievements in a visually appealing and accessible format.
 
-## Images
-
-![Image 1 ](url_to_image1)
-![Image 2 ](url_to_image2)
-
-## [Github](http://www.example.com)
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task7)
 ---
 
 # Task 8: Writing Resource Article using Markdown
-## What is Markdown?
+### What is Markdown?
 Markdown is a lightweight markup language that uses plain text formatting to convert into HTML, providing a simple and readable way to write for the web. It is widely used for creating documents, README files, and content on platforms like GitHub.
 
-## Images
+### Images
 
 ![Image 1 ](url_to_image1)
 ![Image 2 ](url_to_image2)
 
-## [Github](http://www.example.com)
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task8)
 ---
 # Task 9: Tinkercad
-## What is Tinkercad?
+### What is Tinkercad?
 Tinkercad is an easy-to-use, web-based application for creating digital designs and prototypes of 3D models. It is widely used for educational purposes and offers a user-friendly interface for beginners to learn and experiment with computer-aided design 
 
-## Distance estimation using ultrasonic sensor using Tinkercad
+### Distance estimation using ultrasonic sensor using Tinkercad
 
-![Image 1 ](url_to_image1)
-![Image 2 ](url_to_image2)
+![Image 1 ](https://i.postimg.cc/bzf4JZwZ/img1.png)
 
-## [Github](http://www.example.com)
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task9)
 ---
 
 # Task 10: Speed Control of DC Motor
-## What is Arduino?
+### What is Arduino?
 
 Arduino is an open-source electronics platform that consists of both hardware and software for creating interactive projects. It is widely used for prototyping and building a variety of electronic devices by hobbyists, students, and professionals.
 
-## What is Motor driver?
+### What is Motor driver?
 * A motor driver in electronics is a device or circuit that controls the speed, direction, and power supply to electric motors, facilitating their precise and efficient operation in various applications such as robotics and automation. 
 * It interprets signals from a microcontroller and provides the necessary voltage and current to drive the connected motor.
 
-## H-Bridge L298N Motor Driver
+### H-Bridge L298N Motor Driver
 The L298N is an integrated H-bridge motor driver IC commonly used in robotics and electronics. It enables bidirectional control of DC motors, allowing them to be driven forward or backward with adjustable speed using a microcontroller.
 
-## Images
+### Images
 
-![Image 1 ](url_to_image1)
-![Image 2 ](url_to_image2)
-
-## [Github](http://www.example.com)
+![Image 1 ](https://i.postimg.cc/wz2J0nJP/img1.png)
+![Image 2 ](https://i.postimg.cc/8kqsfR38/img2.png)
+![Image 3 ](https://i.postimg.cc/vHfTr1F4/img3.jpg)
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task10)
 ---
 # Task 11: LED Toggle Using ESP32
-## What is ESP32?
+### What is ESP32?
 The ESP32 is a versatile Wi-Fi and Bluetooth-enabled microcontroller developed by Espressif Systems, widely used for IoT projects. It features dual-core processing, low power consumption, and a rich set of peripherals, making it suitable for a variety of applications.
 
-## Images
+### Images
 
-![Image 1 ](url_to_image1)
-![Image 2 ](url_to_image2)
+![Image 1 ](https://postimg.cc/67Z8RpRS/img1.jpg)
+![Image 2 ](https://i.postimg.cc/d1hrwq7G/img2.jpg)
 
-## [Github](http://www.example.com)
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task11)
 ---
 
 # Task 12: Soldering Prerequisites
-## What is Perf board?
+### What is Perf board?
 A perf board, short for perforated board, is a type of circuit board with a grid of holes for soldering electronic components without need of PCB for small projects.
-## Various other components
-* Solder: Solder is a fusible metal alloy used to join together two or more metal components by melting it and allowing it to solidify, creating an electrical and mechanical bond.
+### Various other components
 
-* Soldering Iron: A soldering iron is a tool with a heated metal tip used for melting solder and applying it to the joints of electronic components to create electrical connections.
+**Solder**: Solder is a fusible metal alloy used to join together two or more metal components by melting it and allowing it to solidify, creating an electrical and mechanical bond.
 
-* Soldering Wick: Soldering wick, also known as desoldering braid, is a fine copper wire braided together, designed to absorb and remove excess solder during desoldering operations.
+**Soldering Iron**: A soldering iron is a tool with a heated metal tip used for melting solder and applying it to the joints of electronic components to create electrical connections.
 
-* Flux: Flux is a chemical substance applied to surfaces before soldering to improve the wetting ability of the solder, enhance the bond between the solder and the metal, and prevent oxidation during the soldering process.
+**Soldering Wick**: Soldering wick, also known as desoldering braid, is a fine copper wire braided together, designed to absorb and remove excess solder during desoldering operations.
 
-## Images
+**Flux**: Flux is a chemical substance applied to surfaces before soldering to improve the wetting ability of the solder, enhance the bond between the solder and the metal, and prevent oxidation during the soldering process.
 
-![Image 1 ](url_to_image1)
-![Image 2 ](url_to_image2)
+### Images
 
-## [Github](http://www.example.com)
+![Image 1 ](https://i.postimg.cc/sXCsDmxK/img1.jpg)
+
+
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task12)
 ---
 # Task 13 : 555 Astable Multivibrator 
-## What is a Multivibrator?
+### What is a Multivibrator?
 A multivibrator in electronics is a circuit that produces continuous square wave or pulse wave output, commonly used for generating clock signals and timekeeping in digital circuits.
-## Why use Astable Multivibrator?
+### Why use Astable Multivibrator?
 * They inherently produce a continuous square wave output with no stable states. 
 * This characteristic allows for easy adjustment of the duty cycle by altering the values of the associated resistors and capacitors, offering flexibility in generating diverse pulse widths compared to stable or multistable multivibrators.
-## Why it is called 555?
+### Why it is called 555?
 Because of its three 5 kΩ resistors that were originally used in its internal voltage divider network.
-## 60% Duty Cycle meaning
+### 60% Duty Cycle meaning
 * A 60% duty cycle means that the device is active and consuming power for 60% of the total operational time, while it remains inactive (not consuming power) for the remaining 40%. 
 * This ratio is often relevant in the context of pulse-width modulation (PWM) signals, where the duty cycle determines the average power delivered to a load.
 
-## What is an Oscilloscope?
+### What is an Oscilloscope?
 An oscilloscope is an electronic test instrument that graphically displays electrical signals in real-time, showing voltage variations over time on a graphical screen
 
-## Images
+### Images
 
-![Image 1 ](url_to_image1)
-![Image 2 ](url_to_image2)
+![Image 1 ](https://i.postimg.cc/8CV070dF/img1.png)
+![Image 2 ](https://i.postimg.cc/7LMQ0nXK/img2.jpg)
+![Image 3 ](https://i.postimg.cc/FRrCZkBN/img3.jpg)
+![Image 4 ](https://i.postimg.cc/cHF951pY/img4.jpg)
 
-## [Github](http://www.example.com)
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task13)
 ---
 
 # Task 14: Karnaugh Maps and Deriving the logic circuit  
-## 
+### 
 
-## Images
+### Images
 
 ![Image 1 ](url_to_image1)
 ![Image 2 ](url_to_image2)
 
-## [Github](http://www.example.com)
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task14)
 ---
 # Task 15: Active Participation
-## List of compititions participated in 2023:
+
+### List of competitions participated in 2023:
 
 
-## Images
 
-![Image 1 ](url_to_image1)
-![Image 2 ](url_to_image2)
+**Ncode**
+  - December 2022: 5th place 🏅
+  - January 2023: 3rd place 🏅
+  - August 2023: 5th place 🏅
 
-## [Github](http://www.example.com)
----
+
+**GDSC HTML Code-Off**
+
+
+
+**Aloke** - Won 2 badges 🏆
+
+**Udaan**
+
+**Jaatre**
+
+**Impetus - April 2023:**
+- *Clash of Code:* Qualified for final round R2
+- *Mock Placement:* Qualified for final round R2
+- *Firequest:* Qualified for final round R3
+- *Civicture:* Qualified for final round R2
+- *Escape the Crash:* DNQ
+- *Codestorm:* DNQ
+- *TechRoadies:* Won 1st place 🏅
+
+**Hackathon:**
+- *KSIT SENTINEL HACK 4.0 (24hr):* Participated
+- FantomCode'23 RVITM Hackathon - DNQ
+
+
+
+
+### Images
+
+![Image 1 ](https://i.postimg.cc/85pQr1J3/ncode-jan.jpg)
+![Image 2 ](https://i.postimg.cc/wMMC00kQ/winners2.jpg)
+
+
+### [Github](https://github.com/Shivamrut/UVCE-MARVEL/tree/main/general-tasks/task15)
+
